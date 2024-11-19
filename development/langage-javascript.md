@@ -1,15 +1,10 @@
-# Langage Javascript
-
-> ❌ A travailler
-
-> ✔️ Auto validation par l'étudiant
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage  💻
+- les normes `ecmascript` ❌
+- l'utilisation de l'`asynchrone`  ✔️
+- les spécifités du mot-clef `this`  ✔️
 
 ## 💻 Je code en Javascript
 
@@ -19,21 +14,25 @@
 (e) => mc2;
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
-
-Description :
-
-### J'ai utilisé ce langage en production ❌ / ✔️
-
-[lien du projet](...)
+[lien github](https://github.com/MichaelLELU/WildCodeQuizz-P1)
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+premier projet de groupe la contrainte travailler sur un fichier de chaque langage (javascript , CSS et HTML) a 4 
+nous avons decider de faire un quizz sur le monde du developpement web 
+
+### J'ai utilisé ce langage en production  ✔️
+
+[[lien du projet](https://wild-code-quizz-p1.vercel.app/)](...)
 
 Description :
+
+### J'ai utilisé ce langage en environement professionnel  ✔️
+
+Description :
+pour des fonction utils 
 
 ## 🌐 J'utilise des ressources
 
@@ -44,14 +43,16 @@ Description :
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage 💻
 
 Description:
 
+toujours plus d'algo 
+
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
+- action 1 code wars 
+- action 2 coding game
 - ...
 
 Résolution :
