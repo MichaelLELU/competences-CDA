@@ -6,11 +6,12 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- les verbes HTTP ✔️
+- les statuts HTTP  ✔️
+- les endpoints  ✔️
+- CORS ✔️
+- la nomenclature recommandée pour les routes  ✔️
+  BREAD ou CRUD
 
 ## 💻 J'utilise
 
@@ -18,9 +19,10 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[lien github]([...](https://github.com/MichaelLELU/OriginsDigital-DigiCode-P3))
 
 Description :
+utilisation du CRUD ou BRED complet sur notre api REST 
 
 ### Utilisation en production si applicable❌ / ✔️
 
