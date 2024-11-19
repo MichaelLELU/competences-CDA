@@ -1,10 +1,10 @@
-# Le nom de l'entreprise
+# HA+PME
 
 ## L'activité principale
 
-> Décris en quelques lignes l'activité principale de l'entreprise
+> Offre un service de CE pour les petites entreprises (reduction)
 
 ## Ton équipe
 
-> Décris l'équipe avec laquelle tu travailles, les différents postes et ton interaction avec ces postes.
+> je travail avec un dev senior (wordpress ...) et mon formateur est un dev de 3 ans dexprerience issu de reconversion avce OpenClassroom 
 
